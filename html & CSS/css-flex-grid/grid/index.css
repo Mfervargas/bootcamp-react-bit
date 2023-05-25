@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+body{
+    height: 100vh;
+    background-image: url("https://i.pinimg.com/564x/2d/1c/38/2d1c387f5ad98a0ddc36d3ee9e87a271.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
+p{
+    color: aliceblue;
+}
